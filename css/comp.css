@@ -1,0 +1,218 @@
+.main-2-child1 {
+  position: absolute;
+  top: 188px;
+  left: 42px;
+  background-color: var(--color-darkslategray-100);
+  width: 1920px;
+  height: 892px;
+}
+.main-2-child2 {
+  position: absolute;
+  top: 1080px;
+  left: 1962px;
+  background: linear-gradient(180deg, #353535 40.63%, rgba(51, 51, 51, 0));
+  width: 1920px;
+  height: 149px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.main-2-child3 {
+  position: absolute;
+  top: 165px;
+  left: 0;
+  background: linear-gradient(180deg, #292929, rgba(44, 44, 44, 0) 74.48%);
+  width: 1973px;
+  height: 145px;
+}
+.main-2-child4 {
+  position: absolute;
+  top: 0;
+  left: 42px;
+  background-color: var(--color-gray-200);
+  width: 1920px;
+  height: 188px;
+}
+.logo-1-icon1,
+.menu-icon1 {
+  position: absolute;
+  cursor: pointer;
+}
+.logo-1-icon1 {
+  top: 21px;
+  left: 303px;
+  border-radius: var(--br-231xl);
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+}
+.menu-icon1 {
+  top: 68px;
+  left: 1813px;
+  width: 111px;
+  height: 46px;
+}
+.search {
+  position: absolute;
+  top: 61px;
+  left: 557px;
+  background-color: var(--color-gainsboro-200);
+  border: 1px solid var(--color-black);
+  border-radius: var(--br-41xl);
+  box-sizing: border-box;
+  width: 741px;
+  height: 66px;
+  background-image: url("../images/searchIcon.svg");
+  background-size: 30px 30px;
+  background-position: 20px center;
+  background-repeat: no-repeat;
+  padding-left: 60px;
+  font-weight: bold;
+  font-size: 20px;
+  color: #5f5f5f;
+}
+.b8,
+.userIcon,
+.cartIcon {
+  position: absolute;
+  height: 5.93%;
+  width: 3.24%;
+  top: 5.46%;
+  right: 27.72%;
+  bottom: 88.61%;
+  left: 69.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.cartIcon {
+  height: 5.56%;
+  width: 4.05%;
+  top: 5.93%;
+  right: 22.4%;
+  bottom: 88.52%;
+  left: 73.54%;
+}
+.language {
+  position: absolute;
+  top: 63px;
+  left: 1566px;
+  width: 220px;
+  height: 65.1px;
+  object-fit: cover;
+}
+.comp-child,
+.main-21 {
+  position: absolute;
+  top: 0;
+  left: -42px;
+  width: 1973px;
+  height: 1080px;
+}
+.comp-child {
+  top: 516px;
+  left: 299px;
+  border-top: 2px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 1622px;
+  height: 2px;
+}
+.comp-child1,
+.comp-inner,
+.comp-item {
+  position: absolute;
+  top: 141px;
+  left: 704px;
+  border-right: 2px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 2px;
+  height: 752px;
+}
+.comp-child1,
+.comp-inner {
+  left: 1109px;
+}
+.comp-child1 {
+  left: 1514px;
+}
+.comp-child2,
+.comp-child3 {
+  position: absolute;
+  top: 140.5px;
+  box-sizing: border-box;
+}
+.comp-child2 {
+  left: 298.5px;
+  border-right: 3px solid var(--color-darkgray);
+  width: 3px;
+  height: 753px;
+}
+.comp-child3 {
+  left: -1.5px;
+  border-top: 3px solid var(--color-darkgray);
+  width: 1923.1px;
+  height: 3px;
+}
+.b9,
+.image-1-icon {
+  position: absolute;
+  top: 49px;
+  left: 763px;
+}
+.image-1-icon {
+  top: 147px;
+  left: 390px;
+  width: 223.8px;
+  height: 300px;
+  object-fit: cover;
+}
+.artline-gaming {
+  position: absolute;
+  top: 467px;
+  left: 307px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  color: var(--color-gainsboro-100);
+  width: 392px;
+  height: 30px;
+}
+.comp-child4 {
+  top: -1.5px;
+  left: -1.5px;
+  border-top: 3px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 1923px;
+  height: 3px;
+}
+.comp,
+.comp-child4,
+.item {
+  position: absolute;
+}
+.comp {
+  top: 188px;
+  left: 0;
+  width: 1920.1px;
+  height: 892px;
+  font-size: var(--font-size-41xl);
+  color: var(--color-white);
+}
+.item {
+  top: 330px;
+  left: 300px;
+  background-color: var(--color-gainsboro-300);
+  width: 403px;
+  height: 373px;
+  cursor: pointer;
+}
+.div1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-inter);
+}
